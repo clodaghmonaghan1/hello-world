@@ -6,4 +6,4 @@ I love :coffee: :pizza:, and :dancer:
 1. First ordered list items
 2. Another item
 
-..* Unordered item :banana: :apple:
+..* Unordered sub-list :banana: :apple:
