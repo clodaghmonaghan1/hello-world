@@ -7,3 +7,5 @@ I love :coffee: :pizza:, and :dancer:
 2. Another item
 
 ..* Unordered sub-list :banana: :apple:
+
+[I'm an inline-style link with title] (https://www.google.com)
