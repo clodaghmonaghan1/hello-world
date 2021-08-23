@@ -5,3 +5,5 @@ I love :coffee: :pizza:, and :dancer:
 
 1. First ordered list items
 2. Another item
+
+..*Unstructured item :banana: :apple:
